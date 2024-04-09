@@ -28,12 +28,13 @@
 ##
 
 <h2 align="center" style="color: #DAC29F;"> Sistemas operacionais </h2>
+<div style="display: inline_block" align="center"><br>
 <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=apple,windows&perline=14"/>
     </a>
   </p>
-
+</div>
 
 ##
 
