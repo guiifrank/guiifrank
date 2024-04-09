@@ -27,7 +27,7 @@
 
 ##
 
-<h2 align="center" style="color: #DAC29F;"> Sistemas operacionais </h2>
+<h2 align="center" style="color: #DAC29F;"> Sistemas Operacionais </h2>
 <div style="display: inline_block" align="center"><br>
 <p align="center">
     <a href="https://skillicons.dev">
