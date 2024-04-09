@@ -15,8 +15,8 @@
 
 <h2 align="center" style="color: #DAC29F;"> 🔗 Sistemas operacionais que eu uso </h2>
 <p align="center">
-    <a href="(https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)(https://skillicons.dev)">
-      <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/"/>
+    <a href="[https://skillicons.dev](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+      <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
     </a>
   </p>
 
