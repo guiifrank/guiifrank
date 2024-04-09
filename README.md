@@ -3,24 +3,24 @@
 - Atualmente, trabalho como analista pleno, atuando com testes unitarios e automatizados em diferentes linguagens.
 - Graduando em Engenharia de Software
 
-<h2 align="center" style="color: #f8efd4;"> Linguagens 🔗 Frameworks 🔗 Ferramentas </h2>
+<h2 align="center" style="color: #f8efd4;"> Linguagens </h2>
 
 <div style="display: inline_block" align="center"><br>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,js,html,css,cypress,idea,vscode,git,github,bitbucket&perline=14" />
+      <img src="https://skillicons.dev/icons?i=java,js,html,css&perline=14" />
     </a>
   </p>
 </div>
 
 ##
 
-<h2 align="center" style="color: #f8efd4;"> Frameworks 🔗 Ferramentas </h2>
+<h2 align="center" style="color: #f8efd4;"> Frameworks e Ferramentas </h2>
 
 <div style="display: inline_block" align="center"><br>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=,junit,cypress,idea,vscode,git,github,bitbucket&perline=14" />
+      <img src="https://skillicons.dev/icons?i=spring,selenium,cypress,idea,vscode,git,github,bitbucket&perline=14" />
     </a>
   </p>
 </div>
