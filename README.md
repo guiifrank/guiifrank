@@ -8,15 +8,15 @@
 <div style="display: inline_block" align="center"><br>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,js,html,css,intellij,vscode,git&perline=14" />
+      <img src="https://skillicons.dev/icons?i=java,js,html,css,idea,vscode,git&perline=14" />
     </a>
   </p>
 </div>
 
 <h2 align="center" style="color: #DAC29F;"> 🔗 Sistemas operacionais que eu uso </h2>
 <p align="center">
-    <a href="[https://skillicons.dev](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-      <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+    <a href="https://skillicons.dev">
+      <img width="50" height="40" src="https://skillicons.dev/icons?i=apple,windows&perline=14"/>
     </a>
   </p>
 
