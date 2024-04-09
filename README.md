@@ -1,4 +1,8 @@
-### Hi there 👋
+### Guilherme Frank 
+
+- Atualmente, trabalho como analista pleno, atuando com testes unitarios e automatizados em diferentes linguagens.
+- Graduando em Engenharia de Software
+
 
 <!--
 **guiifrank/guiifrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
