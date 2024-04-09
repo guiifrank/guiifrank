@@ -16,7 +16,7 @@
 <h2 align="center" style="color: #DAC29F;"> 🔗 Sistemas operacionais que eu uso </h2>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img width="50" height="40" src="https://skillicons.dev/icons?i=apple,windows&perline=14"/>
+      <img width="50" height="40" src="https://skillicons.dev/icons?i=apple,windows&perline=18"/>
     </a>
   </p>
 
