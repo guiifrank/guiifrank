@@ -28,10 +28,3 @@
    <a href="https://www.linkedin.com/in/guilherme-frank-926049286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/sntsella">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sntsella&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">    
-  <img align="right" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntsella&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&layout=compact&langs_count=16"/>
-</div>
