@@ -13,6 +13,20 @@
   </p>
 </div>
 
+##
+
+<h2 align="center" style="color: #f8efd4;"> Frameworks 🔗 Ferramentas </h2>
+
+<div style="display: inline_block" align="center"><br>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=,junit,cypress,idea,vscode,git,github,bitbucket&perline=14" />
+    </a>
+  </p>
+</div>
+
+##
+
 <h2 align="center" style="color: #DAC29F;"> 🔗 Sistemas operacionais que eu uso </h2>
 <p align="center">
     <a href="https://skillicons.dev">
