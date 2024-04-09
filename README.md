@@ -27,7 +27,7 @@
 
 ##
 
-<h2 align="center" style="color: #DAC29F;"> 🔗 Sistemas operacionais que eu uso </h2>
+<h2 align="center" style="color: #DAC29F;"> Sistemas operacionais </h2>
 <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=apple,windows&perline=14"/>
