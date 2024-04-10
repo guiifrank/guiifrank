@@ -15,9 +15,7 @@
 
 ##
 
-<div style="display: inline_block" align="center"><br>
 <h2 align="center" style="color: #f8efd4;"> Frameworks e Ferramentas </h2>
-</div>
 
 <div style="display: inline_block" align="center"><br>
   <p align="center">
