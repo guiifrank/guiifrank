@@ -1,6 +1,6 @@
 ### Guilherme Frank 
 
-- Atualmente, trabalho como analista pleno, atuando com testes unitarios e automatizados em diferentes linguagens.
+- Atualmente, trabalho como analista pleno, realizando análise de requisitos e atuando com testes unitarios e automatizados em diferentes linguagens.
 - Graduando em Engenharia de Software
 
 <h2 align="center" style="color: #f8efd4;"> Linguagens </h2>
