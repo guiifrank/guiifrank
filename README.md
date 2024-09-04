@@ -31,7 +31,7 @@
 <div style="display: inline_block" align="center"><br>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=apple,windows&perline=14"/>
+      <img src="https://skillicons.dev/icons?i=apple,linux,windows&perline=14"/>
     </a>
   </p>
 </div>
