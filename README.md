@@ -20,7 +20,7 @@
 <div style="display: inline_block" align="center"><br>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,selenium,cypress,idea,vscode,git,github,bitbucket&perline=14" />
+      <img src="https://skillicons.dev/icons?i=spring,selenium,postgres,cypress,idea,vscode,git,github,azure,bitbucket&perline=14" />
     </a>
   </p>
 </div>
