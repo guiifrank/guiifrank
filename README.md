@@ -8,7 +8,7 @@
 <div style="display: inline_block" align="center"><br>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,js,html,css&perline=14" />
+      <img src="https://skillicons.dev/icons?i=java,js,py,html,css&perline=14" />
     </a>
   </p>
 </div>
@@ -20,7 +20,7 @@
 <div style="display: inline_block" align="center"><br>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,selenium,cypress,postgres,idea,vscode,git,github,azure,bitbucket&perline=14" />
+      <img src="https://skillicons.dev/icons?i=spring,selenium,cypress,androidstudio,postgres,idea,vscode,git,github,azure,bitbucket&perline=14" />
     </a>
   </p>
 </div>
