@@ -1,7 +1,8 @@
 ### Guilherme Frank 
 
-- Atualmente, trabalho como analista pleno, realizando análise de requisitos e atuando com testes unitarios e automatizados em diferentes linguagens.
-- Graduando em Engenharia de Software
+- Cursando quinto semestre de Engenharia de Software. 3 anos de experiencia na área, atuando com diferentes linguagens em aplicações web. Conhecimento em desenvolvimento e testes de API, banco de dados, microserviços. 
+Experiencia com metodologia Scrum.
+- Cursando quinto semestre de Engenharia de Software.
 
 <h2 align="center" style="color: #f8efd4;"> Linguagens </h2>
 
